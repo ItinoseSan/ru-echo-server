@@ -1,7 +1,7 @@
 [package]
 name = "echo_server"
 version = "0.1.0"
-authors = ["ItinoseSan <jkekun@gmail.com>"]
+authors = ["ItinoseSan <dhelitus@gmail.com>"]
 
 [dependencies]
 time = "*"
