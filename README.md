@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ItinoseSan/ru-echo-server.svg?branch=master)](https://travis-ci.org/ItinoseSan/ru-echo-server)
+
 # ru-echo-server
 A mini echo server implemented in Rust
 # Set up
